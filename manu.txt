@@ -1,0 +1,8 @@
+why we used prevent default in our application :
+
+we are not used this keyword in Arroow function
+
+mongosh cmd command 
+
+for handling form data we used one middleware 
+app.use(express.urlencoded({extended : false }))
